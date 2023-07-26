@@ -1,0 +1,3 @@
+Variable msdata gives the full dataset
+The Activity column indicate the subject's activity during the experiment
+The variable result gives the table with the mean for each subject in each activity
